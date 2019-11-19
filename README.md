@@ -9,4 +9,4 @@ This is my test repo in github.
 
 *Itlic Text*
 
-~~Old Rate~~
+~~Cut Text~~
