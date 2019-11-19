@@ -1,9 +1,9 @@
 # gitHubRepo
 
-## Second Heading
+##Second Heading
 This is my test repo in github.
 
-###### Small heading
+######Small heading
 
-** Bold Text **
-* Itlic Text *
+**Bold Text**
+*Itlic Text*
