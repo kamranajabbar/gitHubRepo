@@ -10,3 +10,5 @@ This is my test repo in github.
 *Itlic Text*
 
 ~~Cut Text~~
+
+**Bold with *Italic* Text**
