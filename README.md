@@ -46,7 +46,7 @@ Our website address is [Our Page](https://github.com/kamranjabbar/testRepo).
     - Nested Item 3
 
 Following Steps are require to complete process
-- [ ] Added
+- [ ] New Added
 - [ ] Updated
 - [x] Deleted
 - [x] Managed
