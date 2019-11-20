@@ -49,3 +49,4 @@ Following Steps are require to complete process
 - [ ] Added
 - [ ] Updated
 - [x] Deleted
+- [x] Managed
